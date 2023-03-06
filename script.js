@@ -1,4 +1,4 @@
-let input = document.querySelector('#passwordChecker')
+let input = document.querySelector('#BoosterSecurityPlus')
 let formGroup = document.querySelector('.form-group')
 let message = document.querySelector('.message')
 let passTypeToggle = document.querySelector('.passTypeToggle')
